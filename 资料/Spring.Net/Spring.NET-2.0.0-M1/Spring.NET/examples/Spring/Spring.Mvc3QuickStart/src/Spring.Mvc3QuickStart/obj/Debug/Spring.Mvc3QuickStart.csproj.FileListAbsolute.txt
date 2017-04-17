@@ -1,0 +1,17 @@
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Mvc3QuickStart.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Mvc3QuickStart.pdb
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Common.Logging.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\EntityFramework.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Core.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Web.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Web.Mvc3.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\EntityFramework.xml
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Core.pdb
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Core.xml
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Web.pdb
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Web.xml
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Web.Mvc3.pdb
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\bin\Spring.Web.Mvc3.xml
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\obj\Debug\Spring.Mvc3QuickStart.csprojResolveAssemblyReference.cache
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\obj\Debug\Spring.Mvc3QuickStart.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.Mvc3QuickStart\src\Spring.Mvc3QuickStart\obj\Debug\Spring.Mvc3QuickStart.pdb

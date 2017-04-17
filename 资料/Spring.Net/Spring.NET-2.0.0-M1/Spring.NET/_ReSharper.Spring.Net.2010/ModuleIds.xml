@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="710961A3-0DF4-49E4-A26E-F5B9C044AC84" ModuleId="Spring.Core.2010" />
+  <Module PersistentId="FAE04EC0-301F-11D3-BF4B-00C04F79EFBC" ModuleId="Spring.Services.2010" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+</Modules>

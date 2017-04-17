@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="387BB0C9-C90D-4E9C-866A-DC7B40F9C9EB" ModuleId="Spring.MvcQuickStart.2010" />
+  <Module PersistentId="Spring.Web.Mvc, Version=2.0.0.40000, Culture=neutral, PublicKeyToken=null" ModuleId="Spring.Web.Mvc" />
+</Modules>

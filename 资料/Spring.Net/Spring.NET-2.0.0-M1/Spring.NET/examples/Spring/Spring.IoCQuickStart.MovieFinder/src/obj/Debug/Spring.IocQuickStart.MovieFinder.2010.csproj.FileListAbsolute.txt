@@ -1,0 +1,12 @@
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Spring.IocQuickStart.MovieFinder.exe.config
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Spring.IocQuickStart.MovieFinder.exe
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Spring.IocQuickStart.MovieFinder.pdb
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Common.Logging.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Common.Logging.Log4Net.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\log4net.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Spring.Core.dll
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Spring.Core.pdb
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\bin\Debug\Spring.Core.xml
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\obj\Debug\Spring.IocQuickStart.MovieFinder.2010.csprojResolveAssemblyReference.cache
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\obj\Debug\Spring.IocQuickStart.MovieFinder.exe
+D:\Work\CZBK\Spring.Net\Spring.NET-2.0.0-M1\Spring.NET\examples\Spring\Spring.IoCQuickStart.MovieFinder\src\obj\Debug\Spring.IocQuickStart.MovieFinder.pdb
